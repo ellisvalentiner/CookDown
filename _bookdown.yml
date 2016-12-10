@@ -1,0 +1,5 @@
+book_filename: "CookDown"
+language:
+  ui:
+    chapter_name: "Chapter "
+rmd_subdir: true

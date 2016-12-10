@@ -1,0 +1,18 @@
+--- 
+title: "CookDown"
+author: "Ellis Valentiner"
+date: "`r format(Sys.Date(), format='%b %e, %Y')`"
+site: bookdown::bookdown_site
+output: bookdown::gitbook
+documentclass: book
+biblio-style: apalike
+link-citations: yes
+github-repo: ellisvalentiner/cookdown
+description: "A collection of recipes."
+---
+
+# Introduction {#Introduction -}
+
+This is a collection of recipes written in Bookdown.
+
+# Recipes {#Recipes -}
