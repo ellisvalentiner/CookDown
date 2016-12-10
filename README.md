@@ -1,5 +1,7 @@
 # Cookdown
 
+[![Build Status](https://travis-ci.org/ellisvalentiner/CookDown.svg)](https://travis-ci.org/ellisvalentiner/CookDown)
+
 A personal collection of recipes.
 
 # License
