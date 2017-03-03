@@ -4,7 +4,8 @@ set -e
 
 [ -z "${GITHUB_PAT}" ] && exit 0
 [ "${TRAVIS_BRANCH}" != "master" ] && exit 0
-![ "$TRAVIS_PULL_REQUEST" ] && exit 0
+![ "${TRAVIS_PULL_REQUEST}" ] && exit 0
+[ "${TRAVIS_EVENT_TYPE}" != "push" ] && exit 0
 
 git config --global user.email "ellisvalentiner@gmail.com"
 git config --global user.name "Ellis Valentiner"
