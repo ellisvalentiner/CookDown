@@ -13,6 +13,4 @@ description: "A collection of recipes."
 
 # Introduction {#Introduction -}
 
-This is a collection of recipes written in Bookdown.
-
-# Recipes {#Recipes -}
+This is a collection of recipes written in Bookdown. Feel free to contribute.
