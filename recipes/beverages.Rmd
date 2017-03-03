@@ -1,17 +1,16 @@
-## Beverages {-}
+# Beverages {-}
 
-### Water {-}
+## Water {-}
 
-#### Ingredients {-}
+### Ingredients {-}
 
 * Water (1 glass)
 
-#### Instructions {-}
+### Instructions {-}
 
 First, go to kitchen and take a glass from the cabinet. Next, fill the glass with water from the sink.
 
-
-#### Variations {-}
+### Variations {-}
 
 There are many variations on this popular recipe.
 

@@ -1,8 +1,8 @@
-## Meat {-}
+# Meat {-}
 
-### Pulled Pork {-}
+## Pulled Pork {-}
 
-#### Ingredients {-}
+### Ingredients {-}
 
 * 7.5 lbs pork shoulder
 
@@ -10,7 +10,7 @@
 
 * 2 cans chipotle peppers in adobo sauce
 
-#### Instructions {-}
+### Instructions {-}
 
 Place pork shoulder in a large crockpot. Cover the pork shoulder in the chipotle peppers (and adobo sauce) and add the Dr. Pepper.
 
