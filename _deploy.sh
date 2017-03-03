@@ -3,7 +3,7 @@
 set -e
 
 [ -z "${GITHUB_PAT}" ] && exit 0
-[ "${TRAVIS_BRANCH}" != "master" ] && ![ "$TRAVIS_PULL_REQUEST" ] && exit 0
+[ "${TRAVIS_BRANCH}" = "master" ] && ![ "$TRAVIS_PULL_REQUEST" ] && exit 0
 
 git config --global user.email "ellisvalentiner@gmail.com"
 git config --global user.name "Ellis Valentiner"
