@@ -3,3 +3,4 @@ language:
   ui:
     chapter_name: "Chapter "
 rmd_subdir: true
+delete_merged_file: true

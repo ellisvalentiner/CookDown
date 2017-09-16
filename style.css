@@ -1,3 +1,16 @@
+
+@import url(https://fonts.googleapis.com/css?family=Montserrat);
+@import url(https://fonts.googleapis.com/css?family=Merriweather);
+
+body {
+  font-family: 'Montserrat', 'Palatino Linotype', 'Book Antiqua', Palatino, 'Microsoft YaHei', 'Songti SC', serif;
+}
+
+h1, h2, h3 {
+  font-family: 'Merriweather';
+  font-weight: normal;
+}
+
 p.caption {
   color: #777;
   margin-top: 10px;
