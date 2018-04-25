@@ -2,7 +2,7 @@
 
 [![Build Status](https://travis-ci.org/ellisvalentiner/CookDown.svg)](https://travis-ci.org/ellisvalentiner/CookDown)
 
-[CookDown](https://ellisvalentiner.github.io/CookDown) is a personal collection of recipes — a cookbook in [bookdown](https://bookdown.org).
+[CookDown](https://cookdown.ellisvalentiner.com) is a personal collection of recipes — a cookbook in [bookdown](https://bookdown.org).
 
 # License
 
