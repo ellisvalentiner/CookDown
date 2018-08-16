@@ -1,5 +1,9 @@
 Package: placeholder
 Title: cookdown.
+Authors@R: as.person(c(
+    "Ellis Valentiner <ellis.valentiner@gmail.com> [aut, cre]", 
+    "Andrew Moore <moore.andrew09@gmail.com> [wdc]"
+  ))
 Version: 0.0.1
 Imports: bookdown
 Remotes: ellisvalentiner/cookdown
